@@ -5,7 +5,7 @@
 const double PI_REAL = 3.14159265358979323846;
 
 int main(int argc, char* argv[]) {
-    long long num_steps = 1000000000; 
+    long long num_steps = 100000000; 
     int num_threads = 1; 
 
     if (argc >= 2) {
